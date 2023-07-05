@@ -42,19 +42,19 @@
                         src="https://cdn.iconscout.com/icon/free/png-256/angular-226066.png" alt="Angular"
                         height="50" /></a>
                 <a href="https://material.angular.io/" target="_blank"><img style="margin: 15px; display: block; margin-left: auto; margin-right: auto;"
-                        src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/21_Angular-512.png"
+                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUnDVEqEe78HvQ9g-GMREzL1xFXgDRtcVuFUJL9qCq2XCCiAdy4oBSJXFNtdp9npGNrUM&usqp=CAU"
                         alt="Angular Material" height="50" /></a>
                 <a href="https://flutter.dev/" target="_blank"><img style="margin: 15px"
                         src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" alt="Flutter"
                         height="50" /></a>
                 <a href="https://dart.dev/" target="_blank"><img style="margin: 15px"
-                        src="https://dartpad.dev/assets/dart-logo-64.png"
+                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuBJXtcVG54XTjJDRcVOKP1_MFJlprV3TsINgwuRbQ4Fhi7bbAQlZGDQMPAKWmicCsMlA&usqp=CAU"
                         alt="Dart" height="50" /></a>
                 <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"><img style="margin: 15px"
-                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ASP.NET_Logo.svg/320px-ASP.NET_Logo.svg.png"
+                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRgYc5YW4k00q51mEvRDGZFPtMMyniFMfXG5n48CdvF02gH1LFvmeRGK-ltqplrFjWWtU&usqp=CAU"
                         alt="ASP.NET" height="50" /></a>
                 <a href="https://powerbi.microsoft.com/" target="_blank"><img style="margin: 15px"
-                         src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg"
+                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRASF3w48kdEdIIYBkTndtEJ8tjN0ZyreXg9i_b3wn2VEeZokYE3Qk6CyFVQjDhtoiO56s&usqp=CAU"
                          alt="Power BI" height="50" /></a>
                 <a href="https://jquery.com/" target="_blank"><img style="margin: 15px"
                         src="https://cdn.simpleicons.org/jquery/#0769AD" alt="jQuery" height="50" /></a>
@@ -67,7 +67,7 @@
                         src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/131px-Java_programming_language_logo.svg.png"
                         alt="Java" height="50" /></a>
                 <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 15px"
-                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/800px-Spring_Framework_Logo_2018.svg.png"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg.png"
                         alt="Spring Boot" height="50" /></a>
                 <a href="https://www.oracle.com/java/technologies/javaee" target="_blank"><img style="margin: 15px"
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIK3iAdcz6N-v95EcniWPhkEh9LQCj9JoYoC7YWmThdimCl3DWyzN8-p7Lbk0frlWraP8&usqp=CAU"
@@ -99,7 +99,7 @@
                         src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"
                         alt="MATLAB" height="50" /></a>
                 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img style="margin: 15px"
-                        src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Microsoft_SQL_Server_Logo.svg/1920px-Microsoft_SQL_Server_Logo.svg.png"
+                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVXcUCEHFHY4Y6x0I6z3JHIC8YLbCJJ7SxaIy-okDQ8rnmWGtnYe25j-mP1SP2zZr4qYU&usqp=CAU"
                         alt="SQL Server" height="50" /></a>
                 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px"
                         src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL"
@@ -132,13 +132,13 @@
                         src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg"
                         alt="AWS" height="50" /></a>
                 <a href="https://azure.microsoft.com/" target="_blank"><img style="margin: 15px"
-                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/200px-Microsoft_Azure_Logo.svg.png"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg.png"
                         alt="Microsoft Azure" height="50" /></a>
                 <a href="https://www.odoo.com/" target="_blank"><img style="margin: 15px"
-                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpLaeJia88LjYic_xj2WUm5sBvbYrPnbtYzA7K2YgHdBJpHp315jqcqux5dgUjx02kwk4&usqp=CAU"
+                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfekbnjGxfBgI1PDwELYu-FUs6IJ8ivuClejbAGYZa0R0FA1KFFp0qMI5E26lGunhnr6U&usqp=CAU"
                         alt="Odoo" height="50" /></a>
                 <a href="https://bonitasoft.com/" target="_blank"><img style="margin: 15px"
-                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-rK0fqASfqvbE-UcZA9yRB2ZDUQ-zK6_nflmQYTSOkc2av6B15xkejPhTDkAbD2MmzA&usqp=CAU"
+                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX0-idtM80gGM-i6Lud2zH8SRnH8MP5J85fACCx8ukv_3VhzPi3SaEaLX0TMnnLgQ4fvM&usqp=CAU"
                         alt="Bonita Soft" height="50" /></a>
                 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px"
                         src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux"
@@ -159,7 +159,7 @@
 
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marwendona&show_icons=true&locale=en&layout=compact"
-        alt="marwendona" width="45%" height="100%" align="left"/>
+        alt="marwendona" width="45%" height="80%" align="left"/>
     <img src="https://github-readme-stats.vercel.app/api?username=marwendona&show_icons=true&locale=en"
         alt="marwendona" width="45%" height="100%" align="right" />
 </p>
