@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marwen KAMMOUN</h1>
 <h3 align="center">Developer</h3>
 <div align="center">
-    <img alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+    <img alt="Coding" width="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
 
 <h3 align="center"> Connect With Me </h3>
@@ -59,7 +59,6 @@
                         src="https://cdn.simpleicons.org/jquery/#0769AD" alt="jQuery" height="50" /></a>
             </div>
         </td>
-
         <td valign="top" width="33%">
             ### Backend
             <div align="center">
@@ -119,7 +118,6 @@
                         src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>
             </div>
         </td>
-
         <td valign="top" width="33%">
             ### DevOps
             <div align="center">
