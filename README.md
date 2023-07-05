@@ -159,7 +159,7 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marwendona&show_icons=true&locale=en&layout=compact"
-        alt="marwendona" width="50%" align="left"/>
+        alt="marwendona" width="45%" align="left"/>
     <img src="https://github-readme-stats.vercel.app/api?username=marwendona&show_icons=true&locale=en"
-        alt="marwendona" width="50%" align="right" />
+        alt="marwendona" width="45%" align="right" />
 </p> 
