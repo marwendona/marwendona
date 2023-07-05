@@ -7,7 +7,10 @@
 <h3 align="center"> Connect With Me </h3>
 <p align="center">
     <a href="mailto:marwenkammoun3@gmail.com" target="blank"><img align="center"
-            src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="marwenkammoun3"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjPWa57XR6nTz37D9XSWANAF0QYMaNT5rUBZfvmMLrU5gbW4eX70xICEbo1ZLJCa-DPzE&usqp=CAU" alt="marwenkammoun3"
+            height="30" width="40" /></a>
+    <a href="mailto:KAMMOUNMARWEN@iit.ens.tn" target="_blank"><img align="center"
+            src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="KAMMOUNMARWEN"
             height="30" width="40" /></a>
     <a href="https://www.linkedin.com/in/marwen-kammoun-22252a192" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -24,7 +27,7 @@
 <table>
     <tr>
         <td valign="top" width="33%">
-            ### Frontend
+            <h3 align="center">Frontend</h3>
             <div align="center">
                 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 15px"
                         src="https://cdn.simpleicons.org/bootstrap/#7952B3" alt="Bootstrap" height="50" /></a>
@@ -60,10 +63,10 @@
             </div>
         </td>
         <td valign="top" width="33%">
-            ### Backend
+            <h3 align="center">Backend</h3>
             <div align="center">
                 <a href="https://java.com/" target="_blank"><img style="margin: 15px"
-                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTifpPkAxC4sWKOcPSROm0PVtADIao8z_1PKKQwxjQkdj1kQzJaw2E9pRrKUNjlmpl5SP4&usqp=CAU"
+                        src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/131px-Java_programming_language_logo.svg.png"
                         alt="Java" height="50" /></a>
                 <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 15px"
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwsq-7f5BWyog4cdeT1sQaYLVzhJ0o37Up8TjHvVU08WUgfyyMMRMHTVwJ5XReSjyhZa0&usqp=CAU"
@@ -119,7 +122,7 @@
             </div>
         </td>
         <td valign="top" width="33%">
-            ### DevOps
+            <h3 align="center">Technology Stack</h3>
             <div align="center">
                 <a href="https://github.com/" target="_blank"><img style="margin: 10px"
                         src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git"
