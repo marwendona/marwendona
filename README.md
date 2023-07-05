@@ -67,7 +67,7 @@
                         src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/131px-Java_programming_language_logo.svg.png"
                         alt="Java" height="50" /></a>
                 <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 15px"
-                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg.png"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/800px-Spring_Framework_Logo_2018.svg.png"
                         alt="Spring Boot" height="50" /></a>
                 <a href="https://www.oracle.com/java/technologies/javaee" target="_blank"><img style="margin: 15px"
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIK3iAdcz6N-v95EcniWPhkEh9LQCj9JoYoC7YWmThdimCl3DWyzN8-p7Lbk0frlWraP8&usqp=CAU"
@@ -132,7 +132,7 @@
                         src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg"
                         alt="AWS" height="50" /></a>
                 <a href="https://azure.microsoft.com/" target="_blank"><img style="margin: 15px"
-                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg.png"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/200px-Microsoft_Azure_Logo.svg.png"
                         alt="Microsoft Azure" height="50" /></a>
                 <a href="https://www.odoo.com/" target="_blank"><img style="margin: 15px"
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfekbnjGxfBgI1PDwELYu-FUs6IJ8ivuClejbAGYZa0R0FA1KFFp0qMI5E26lGunhnr6U&usqp=CAU"
@@ -159,7 +159,7 @@
 
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marwendona&show_icons=true&locale=en&layout=compact"
-        alt="marwendona" width="45%" height="80%" align="left"/>
+        alt="marwendona" width="45%" height="100%" align="left"/>
     <img src="https://github-readme-stats.vercel.app/api?username=marwendona&show_icons=true&locale=en"
-        alt="marwendona" width="45%" height="100%" align="right" />
+        alt="marwendona" width="45%" height="120%" align="right" />
 </p>
