@@ -48,13 +48,13 @@
                         src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" alt="Flutter"
                         height="50" /></a>
                 <a href="https://dart.dev/" target="_blank"><img style="margin: 15px"
-                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuBJXtcVG54XTjJDRcVOKP1_MFJlprV3TsINgwuRbQ4Fhi7bbAQlZGDQMPAKWmicCsMlA&usqp=CAU"
+                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWoxiRajTWnNdhHO1ZF2oxaJevJJZJ00AXxZxBzxEPBZGijOFEgKgYGAUtshf7jhoOEtQ&usqp=CAU"
                         alt="Dart" height="50" /></a>
                 <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"><img style="margin: 15px"
-                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRgYc5YW4k00q51mEvRDGZFPtMMyniFMfXG5n48CdvF02gH1LFvmeRGK-ltqplrFjWWtU&usqp=CAU"
+                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE4fAzck7tKDSDNKPB3kF7wJY4_kXWsCZhnS6mpZGlLAzeuKtNf9Ma9O5faOtDgxjqosE&usqp=CAU"
                         alt="ASP.NET" height="50" /></a>
                 <a href="https://powerbi.microsoft.com/" target="_blank"><img style="margin: 15px"
-                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRASF3w48kdEdIIYBkTndtEJ8tjN0ZyreXg9i_b3wn2VEeZokYE3Qk6CyFVQjDhtoiO56s&usqp=CAU"
+                         src="https://cdn.windowsreport.com/wp-content/uploads/2019/08/Power-bi-Authentication-error.jpg"
                          alt="Power BI" height="50" /></a>
                 <a href="https://jquery.com/" target="_blank"><img style="margin: 15px"
                         src="https://cdn.simpleicons.org/jquery/#0769AD" alt="jQuery" height="50" /></a>
@@ -147,7 +147,7 @@
                         src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell"
                         height="50" /></a>
                 <a href="https://ubuntu.com/download/server" target="_blank"><img style="margin: 15px"
-                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn7WEPgdHxPg-yz_9upV6nKVMhldQ2XQQYufV7sf8sAcU1EG1gG_Z4WA2kMvaePU5INho&usqp=CAU"
+                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHIrmk4xqxX8XLDGRmaEfviwjWDmsVfXfp-UiGMvrLcBDj6I7lG0xkjTkc9vDOkHUxG8o&usqp=CAU"
                          alt="Ubuntu Server" height="50" /></a>
                 <a href="https://www.microsoft.com/en-us/cloud-platform/windows-server" target="_blank"><img style="margin: 15px"
                          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV5i_B3lqVcci3bgOYvRpoNaKXRhtqVhTg5ITFE8Z7EMDVtTQNCRSMPAVHmKGzFCBX4Y4&usqp=CAU"
@@ -157,9 +157,9 @@
     </tr>
 </table>
 
-<p align="left">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marwendona&show_icons=true&locale=en&layout=compact"
-        alt="marwendona" width="45%" height="100%" align="left"/>
+        alt="marwendona" width="50%" align="left"/>
     <img src="https://github-readme-stats.vercel.app/api?username=marwendona&show_icons=true&locale=en"
-        alt="marwendona" width="45%" height="120%" align="right" />
-</p>
+        alt="marwendona" width="50%" align="right" />
+</p> 
