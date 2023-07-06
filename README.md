@@ -158,8 +158,10 @@
 </table>
 
 <p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=marwendona&show_icons=true&locale=en"
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=marwendona&show_icons=true&locale=en&layout=compact"
         alt="marwendona" width="45%" align="left"/>
+        </br>
+        </br>
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=marwendona&show_icons=true&locale=en"
         alt="marwendona" width="45%" align="right" />
 </p> 
