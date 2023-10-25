@@ -28,19 +28,19 @@
         <td valign="top" width="33%">
             <h3 align="center">Frontend</h3>
             <div align="center">
+                <a href="https://angular.io/" target="_blank"><img style="margin: 15px"
+                        src="https://cdn.iconscout.com/icon/free/png-256/angular-226066.png" alt="Angular"
+                        height="50" /></a>
+                <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 15px"
+                        src="https://cdn.simpleicons.org/typescript/#3178C6" alt="TypeScript" height="50" /></a>
+                <a href="https://www.javascript.com/" target="_blank"><img style="margin: 15px"
+                        src="https://cdn.simpleicons.org/javaScript/#F7DF1E" alt="JavaScript" height="50" /></a>
                 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 15px"
                         src="https://cdn.simpleicons.org/html5/#E34F26" alt="HTML5" height="50" /></a>
                 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 15px"
                         src="https://cdn.simpleicons.org/css3/#1572B6" alt="CSS3" height="50" /></a>
                 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 15px"
                         src="https://cdn.simpleicons.org/bootstrap/#7952B3" alt="Bootstrap" height="50" /></a>
-                <a href="https://www.javascript.com/" target="_blank"><img style="margin: 15px"
-                        src="https://cdn.simpleicons.org/javaScript/#F7DF1E" alt="JavaScript" height="50" /></a>
-                <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 15px"
-                        src="https://cdn.simpleicons.org/typescript/#3178C6" alt="TypeScript" height="50" /></a>
-                <a href="https://angular.io/" target="_blank"><img style="margin: 15px"
-                        src="https://cdn.iconscout.com/icon/free/png-256/angular-226066.png" alt="Angular"
-                        height="50" /></a>
                 <a href="https://material.angular.io/" target="_blank"><img style="margin: 15px; display: block; margin-left: auto; margin-right: auto;"
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUnDVEqEe78HvQ9g-GMREzL1xFXgDRtcVuFUJL9qCq2XCCiAdy4oBSJXFNtdp9npGNrUM&usqp=CAU"
                         alt="Angular Material" height="50" /></a>
@@ -50,9 +50,6 @@
                 <a href="https://dart.dev/" target="_blank"><img style="margin: 15px"
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWoxiRajTWnNdhHO1ZF2oxaJevJJZJ00AXxZxBzxEPBZGijOFEgKgYGAUtshf7jhoOEtQ&usqp=CAU"
                         alt="Dart" height="50" /></a>
-                <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"><img style="margin: 15px"
-                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE4fAzck7tKDSDNKPB3kF7wJY4_kXWsCZhnS6mpZGlLAzeuKtNf9Ma9O5faOtDgxjqosE&usqp=CAU"
-                        alt="ASP.NET" height="50" /></a>
                 <a href="https://powerbi.microsoft.com/" target="_blank"><img style="margin: 15px"
                          src="https://cdn.windowsreport.com/wp-content/uploads/2019/08/Power-bi-Authentication-error.jpg"
                          alt="Power BI" height="50" /></a>
@@ -87,6 +84,9 @@
                 <a href="https://dotnet.microsoft.com/" target="_blank"><img style="margin: 15px"
                         src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"
                         alt=".NET" height="50" /></a>
+                <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"><img style="margin: 15px"
+                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE4fAzck7tKDSDNKPB3kF7wJY4_kXWsCZhnS6mpZGlLAzeuKtNf9Ma9O5faOtDgxjqosE&usqp=CAU"
+                        alt="ASP.NET" height="50" /></a>
                 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px"
                         src="https://cdn.simpleicons.org/python/#3776AB" alt="Python" height="50" /></a>
                 <a href="https://jupyter.org/" target="_blank"><img style="margin: 15px"
