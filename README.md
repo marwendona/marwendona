@@ -113,7 +113,7 @@
             </div>
         </td>
     </tr>
-    <tr>
+    <tr valign="top">
         <h3 align="center">Technology Stack</h3>
         <div align="center">
             <a href="https://github.com/" target="_blank"><img style="margin: 10px"
