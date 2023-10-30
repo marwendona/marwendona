@@ -113,34 +113,38 @@
             </div>
         </td>
     </tr>
-    <tr valign="top">
-        <h3 align="center">Technology Stack</h3>
-        <div align="center">
-            <a href="https://github.com/" target="_blank"><img style="margin: 10px"
-                        src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-                <a href="https://jenkins.io/" target="_blank"><img style="margin: 15px"
-                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNhykAGH18mwMYkkyHOb8JyqiMECmDg1dsyXIleJcUZY1yS_2Zn6jYoGYiHo3Y2Vr11h8&usqp=CAU" alt="Jenkins" height="50" /></a>
-                <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px"
-                        src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-                <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px"
-                        src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
-                <a href="https://azure.microsoft.com/" target="_blank"><img style="margin: 15px"
-                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/200px-Microsoft_Azure_Logo.svg.png" alt="Microsoft Azure" height="50" /></a>
-                <a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 15px"
-                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1QI0e3AWz-EXUaK_CB563Gw5gCZca_GIzOOQaRC9xYNX3-bpRuS7gywfeE4qp42O_Lgs&usqp=CAU" alt="Hadoop" height="50" /></a>
-                <a href="https://www.odoo.com/" target="_blank"><img style="margin: 15px"
-                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfekbnjGxfBgI1PDwELYu-FUs6IJ8ivuClejbAGYZa0R0FA1KFFp0qMI5E26lGunhnr6U&usqp=CAU" alt="Odoo" height="50" /></a>
-                <a href="https://bonitasoft.com/" target="_blank"><img style="margin: 15px"
-                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX0-idtM80gGM-i6Lud2zH8SRnH8MP5J85fACCx8ukv_3VhzPi3SaEaLX0TMnnLgQ4fvM&usqp=CAU" alt="Bonita Soft" height="50" /></a>
-                <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px"
-                        src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-                <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px"
-                        src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>
-                <a href="https://ubuntu.com/download/server" target="_blank"><img style="margin: 15px"
-                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHIrmk4xqxX8XLDGRmaEfviwjWDmsVfXfp-UiGMvrLcBDj6I7lG0xkjTkc9vDOkHUxG8o&usqp=CAU" alt="Ubuntu Server" height="50" /></a>
-                <a href="https://www.microsoft.com/en-us/cloud-platform/windows-server" target="_blank"><img style="margin: 15px"
-                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV5i_B3lqVcci3bgOYvRpoNaKXRhtqVhTg5ITFE8Z7EMDVtTQNCRSMPAVHmKGzFCBX4Y4&usqp=CAU" alt="Windows Server" height="50" /></a>
-        </div>
+    <tr>
+        <td valign="top">
+            <h3 align="center">Technology Stack</h3>
+            <div align="center">
+                <a href="https://github.com/" target="_blank"><img style="margin: 10px"
+                            src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+                    <a href="https://jenkins.io/" target="_blank"><img style="margin: 15px"
+                            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNhykAGH18mwMYkkyHOb8JyqiMECmDg1dsyXIleJcUZY1yS_2Zn6jYoGYiHo3Y2Vr11h8&usqp=CAU" alt="Jenkins" height="50" /></a>
+                    <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px"
+                            src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+                    <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px"
+                            src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
+                    <a href="https://azure.microsoft.com/" target="_blank"><img style="margin: 15px"
+                            src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/200px-Microsoft_Azure_Logo.svg.png" alt="Microsoft Azure" height="50" /></a>
+                    <a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 15px"
+                            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1QI0e3AWz-EXUaK_CB563Gw5gCZca_GIzOOQaRC9xYNX3-bpRuS7gywfeE4qp42O_Lgs&usqp=CAU" alt="Hadoop" height="50" /></a>
+                    <a href="https://www.odoo.com/" target="_blank"><img style="margin: 15px"
+                            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfekbnjGxfBgI1PDwELYu-FUs6IJ8ivuClejbAGYZa0R0FA1KFFp0qMI5E26lGunhnr6U&usqp=CAU" alt="Odoo" height="50" /></a>
+                    <a href="https://bonitasoft.com/" target="_blank"><img style="margin: 15px"
+                            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX0-idtM80gGM-i6Lud2zH8SRnH8MP5J85fACCx8ukv_3VhzPi3SaEaLX0TMnnLgQ4fvM&usqp=CAU" alt="Bonita Soft" height="50" /></a>
+                    <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px"
+                            src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
+                    <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px"
+                            src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>
+                    <a href="https://ubuntu.com/download/server" target="_blank"><img style="margin: 15px"
+                             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHIrmk4xqxX8XLDGRmaEfviwjWDmsVfXfp-UiGMvrLcBDj6I7lG0xkjTkc9vDOkHUxG8o&usqp=CAU" 
+                                                                                     alt="Ubuntu Server" height="50" /></a>
+                    <a href="https://www.microsoft.com/en-us/cloud-platform/windows-server" target="_blank"><img style="margin: 15px"
+                             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV5i_B3lqVcci3bgOYvRpoNaKXRhtqVhTg5ITFE8Z7EMDVtTQNCRSMPAVHmKGzFCBX4Y4&usqp=CAU" 
+                                                                                                                alt="Windows Server" height="50" /></a>
+            </div>
+        </td>
     </tr>
 </table>
 
