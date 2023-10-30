@@ -85,6 +85,17 @@
                         src="https://cdn-icons-png.flaticon.com/512/2464/2464397.png" alt="MACHINE LEARNING" height="50" /></a>
                 <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img style="margin: 15px"
                         src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" height="50" /></a>
+                <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px"
+                        src="https://cdn.simpleicons.org/postman/#FF6C37" alt="Postman" height="50" /></a>
+                <a href="https://www.w3schools.com/js/js_json_intro.asp" target="_blank"><img style="margin: 10px"
+                        src="https://cdn.simpleicons.org/json/#000000" alt="JSON" height="50" /></a>
+                <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px"
+                        src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>
+            </div>
+        </td>
+        <td valign="top" width="33%">
+            <h3 align="center">Database</h3>
+            <div align="center">
                 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px"
                         src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
                 <a href="https://www.phpmyadmin.net/" target="_blank"><img style="margin: 10px"
@@ -99,18 +110,13 @@
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsnk0C0845rdxpXlD4l3BGgk3_-6U35WiIr_EAAHHEgVWNpVrsvOQnarLqcHk7HnfnZw0&usqp=CAU" alt="MongoDB" height="50" /></a>
                 <a href="https://datascientest.com/data-warehouse" target="_blank"><img style="margin: 15px"
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfm372MMNLmYrwwMCX_VTMheFrxH2wj3cicG1iZx8pqK-NfPT4kfD-cV-X_jOnX3K-maU&usqp=CAU" alt="DATA WAREHOUSE" height="50" /></a>
-                <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px"
-                        src="https://cdn.simpleicons.org/postman/#FF6C37" alt="Postman" height="50" /></a>
-                <a href="https://www.w3schools.com/js/js_json_intro.asp" target="_blank"><img style="margin: 10px"
-                        src="https://cdn.simpleicons.org/json/#000000" alt="JSON" height="50" /></a>
-                <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px"
-                        src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>
             </div>
         </td>
-        <td valign="top" width="33%">
-            <h3 align="center">Technology Stack</h3>
-            <div align="center">
-                <a href="https://github.com/" target="_blank"><img style="margin: 10px"
+    </tr>
+    <tr>
+        <h3 align="center">Technology Stack</h3>
+        <div align="center">
+            <a href="https://github.com/" target="_blank"><img style="margin: 10px"
                         src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
                 <a href="https://jenkins.io/" target="_blank"><img style="margin: 15px"
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNhykAGH18mwMYkkyHOb8JyqiMECmDg1dsyXIleJcUZY1yS_2Zn6jYoGYiHo3Y2Vr11h8&usqp=CAU" alt="Jenkins" height="50" /></a>
@@ -134,8 +140,7 @@
                          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHIrmk4xqxX8XLDGRmaEfviwjWDmsVfXfp-UiGMvrLcBDj6I7lG0xkjTkc9vDOkHUxG8o&usqp=CAU" alt="Ubuntu Server" height="50" /></a>
                 <a href="https://www.microsoft.com/en-us/cloud-platform/windows-server" target="_blank"><img style="margin: 15px"
                          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV5i_B3lqVcci3bgOYvRpoNaKXRhtqVhTg5ITFE8Z7EMDVtTQNCRSMPAVHmKGzFCBX4Y4&usqp=CAU" alt="Windows Server" height="50" /></a>
-            </div>
-        </td>
+        </div>
     </tr>
 </table>
 
