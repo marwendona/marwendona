@@ -61,7 +61,8 @@
             <h3 align="center">Backend</h3>
             <div align="center">
                 <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 15px"
-                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/800px-Spring_Framework_Logo_2018.svg.png" alt="Spring Boot" height="50" /></a>
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/800px-Spring_Framework_Logo_2018.svg.png" 
+                                                                                     alt="Spring Boot" height="50" width="50"/></a>
                 <a href="https://java.com/" target="_blank"><img style="margin: 15px"
                         src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/131px-Java_programming_language_logo.svg.png" alt="Java" height="50" /></a>
                 <a href="https://www.oracle.com/java/technologies/javaee" target="_blank"><img style="margin: 15px"
@@ -80,11 +81,12 @@
                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/197px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="50" /></a>
                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img style="margin: 15px"
                         src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="C#" height="50" /></a>
-                </br>
                 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px"
                         src="https://cdn.simpleicons.org/python/#3776AB" alt="Python" height="50" /></a>
                 <a href="https://jupyter.org/" target="_blank"><img style="margin: 15px"
                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter Notebook" height="50" /></a>
+                <a href="https://https://www.tensorflow.org/" target="_blank"><img style="margin: 15px"
+                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVxsX99Fz1DQV1QUOko--A542_yWE6p-iZp9DSyrRvUYjkbQdtoRuMsimgxs3HfgGC7cU&usqp=CAU" alt="TensorFlow" height="50" /></a>
                 <a href="https://developers.google.com/machine-learning/crash-course?hl=fr" target="_blank"><img style="margin: 15px"
                         src="https://cdn-icons-png.flaticon.com/512/2464/2464397.png" alt="MACHINE LEARNING" height="50" /></a>
                 <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img style="margin: 15px"
@@ -110,6 +112,8 @@
                 </br>
                 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img style="margin: 15px"
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVXcUCEHFHY4Y6x0I6z3JHIC8YLbCJJ7SxaIy-okDQ8rnmWGtnYe25j-mP1SP2zZr4qYU&usqp=CAU" alt="SQL Server" height="50" /></a>
+                <a href="https://www.oracle.com/database/" target="_blank"><img style="margin: 15px"
+                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa_sog24nLt6EZTPRy1SKBlK1_R0suNQeruKTl5OuU3NSUzVXf5tsnBNn9VRJ5q89K2ig&usqp=CAU" alt="Oracle Database" height="50" /></a>
                 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 15px"
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk3kSVpiWzJPf0wYuGbe65THoM8GAGYnemHAx_nTXw53gJVoUJCM8x2gzRy2sJernaCbQ&usqp=CAU" alt="PostgreSQL" height="50" /></a>
                 </br>
