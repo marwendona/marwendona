@@ -62,7 +62,7 @@
             <div align="center">
                 <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 15px"
                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/800px-Spring_Framework_Logo_2018.svg.png" 
-                                                                                     alt="Spring Boot" height="50" width="50"/></a>
+                                                                                     alt="Spring Boot" height="50" width="75"/></a>
                 <a href="https://java.com/" target="_blank"><img style="margin: 15px"
                         src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/131px-Java_programming_language_logo.svg.png" alt="Java" height="50" /></a>
                 <a href="https://www.oracle.com/java/technologies/javaee" target="_blank"><img style="margin: 15px"
@@ -85,7 +85,7 @@
                         src="https://cdn.simpleicons.org/python/#3776AB" alt="Python" height="50" /></a>
                 <a href="https://jupyter.org/" target="_blank"><img style="margin: 15px"
                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter Notebook" height="50" /></a>
-                <a href="https://https://www.tensorflow.org/" target="_blank"><img style="margin: 15px"
+                <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 15px"
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVxsX99Fz1DQV1QUOko--A542_yWE6p-iZp9DSyrRvUYjkbQdtoRuMsimgxs3HfgGC7cU&usqp=CAU" alt="TensorFlow" height="50" /></a>
                 <a href="https://developers.google.com/machine-learning/crash-course?hl=fr" target="_blank"><img style="margin: 15px"
                         src="https://cdn-icons-png.flaticon.com/512/2464/2464397.png" alt="MACHINE LEARNING" height="50" /></a>
