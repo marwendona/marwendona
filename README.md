@@ -43,7 +43,7 @@
                 </br>
                 <a href="https://reactnative.dev/" target="_blank"><img style="margin: 15px"
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShQSuzoSO033la85_jAMD48b8TkB-zlphdBZxTl4HUqGJ3k1SFIutkkxCrCxYisxksSMc&usqp=CAU" 
-                                                                       alt="React Native" height="50" width="40"/></a>
+                                                                       alt="React Native" height="50" width="70"/></a>
                 <a href="https://flutter.dev/" target="_blank"><img style="margin: 15px"
                         src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" alt="Flutter" height="50" /></a>
                 <a href="https://dart.dev/" target="_blank"><img style="margin: 15px"
@@ -60,26 +60,23 @@
             <div align="center">
                 <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 15px"
                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/800px-Spring_Framework_Logo_2018.svg.png" 
-                                                                                     alt="Spring Boot" height="50" width="85"/></a>
+                                                                                     alt="Spring Boot" height="50" width="100"/></a>
                 <a href="https://java.com/" target="_blank"><img style="margin: 15px"
                         src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/131px-Java_programming_language_logo.svg.png" alt="Java" height="50" /></a>
                 <a href="https://www.oracle.com/java/technologies/javaee" target="_blank"><img style="margin: 15px"
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIK3iAdcz6N-v95EcniWPhkEh9LQCj9JoYoC7YWmThdimCl3DWyzN8-p7Lbk0frlWraP8&usqp=CAU" alt="Java EE" height="50" /></a>
                 </br>
-                <a href="https://laravel.com/" target="_blank"><img style="margin: 15px"
-                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" height="50" /></a>
-                <a href="https://www.php.net/" target="_blank"><img style="margin: 10px"
-                        src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
-                <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"><img style="margin: 15px"
-                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE4fAzck7tKDSDNKPB3kF7wJY4_kXWsCZhnS6mpZGlLAzeuKtNf9Ma9O5faOtDgxjqosE&usqp=CAU" alt="ASP.NET" height="50" /></a>
-                <a href="https://dotnet.microsoft.com/" target="_blank"><img style="margin: 15px"
-                        src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET" height="50" /></a>
                 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="50" /> </a>
                 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 15px"
                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/197px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="50" /></a>
                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img style="margin: 15px"
                         src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="C#" height="50" /></a>
+                <a href="https://dotnet.microsoft.com/" target="_blank"><img style="margin: 15px"
+                        src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET" height="50" /></a>
+                <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"><img style="margin: 15px"
+                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE4fAzck7tKDSDNKPB3kF7wJY4_kXWsCZhnS6mpZGlLAzeuKtNf9Ma9O5faOtDgxjqosE&usqp=CAU" a
+                                                                                       lt="ASP.NET" height="50" width="50"/></a>
                 </br>
                 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px"
                         src="https://cdn.simpleicons.org/python/#3776AB" alt="Python" height="50" /></a>
@@ -91,6 +88,10 @@
                         src="https://cdn-icons-png.flaticon.com/512/2464/2464397.png" alt="MACHINE LEARNING" height="50" /></a>
                 <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img style="margin: 15px"
                         src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" height="50" /></a>
+                <a href="https://laravel.com/" target="_blank"><img style="margin: 15px"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" height="50" /></a>
+                <a href="https://www.php.net/" target="_blank"><img style="margin: 10px"
+                        src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
                 <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px"
                         src="https://cdn.simpleicons.org/postman/#FF6C37" alt="Postman" height="50" /></a>
                 <a href="https://www.w3schools.com/js/js_json_intro.asp" target="_blank"><img style="margin: 10px"
