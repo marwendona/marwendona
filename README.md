@@ -76,16 +76,17 @@
                         src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET" height="50" /></a>
                 <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"><img style="margin: 15px"
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE4fAzck7tKDSDNKPB3kF7wJY4_kXWsCZhnS6mpZGlLAzeuKtNf9Ma9O5faOtDgxjqosE&usqp=CAU" a
-                                                                                       lt="ASP.NET" height="50" width="50"/></a>
+                                                                                       lt="ASP.NET" height="50" width="40"/></a>
                 </br>
                 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px"
                         src="https://cdn.simpleicons.org/python/#3776AB" alt="Python" height="50" /></a>
                 <a href="https://jupyter.org/" target="_blank"><img style="margin: 15px"
                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter Notebook" height="50" /></a>
                 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 15px"
-                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVxsX99Fz1DQV1QUOko--A542_yWE6p-iZp9DSyrRvUYjkbQdtoRuMsimgxs3HfgGC7cU&usqp=CAU" alt="TensorFlow" height="50" /></a>
+                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVxsX99Fz1DQV1QUOko--A542_yWE6p-iZp9DSyrRvUYjkbQdtoRuMsimgxs3HfgGC7cU&usqp=CAU" 
+                                                                          alt="TensorFlow" height="50" width="40"/></a>
                 <a href="https://developers.google.com/machine-learning/crash-course?hl=fr" target="_blank"><img style="margin: 15px"
-                        src="https://cdn-icons-png.flaticon.com/512/2464/2464397.png" alt="MACHINE LEARNING" height="50" /></a>
+                        src="https://cdn-icons-png.flaticon.com/512/2464/2464397.png" alt="MACHINE LEARNING" height="50" width="40" /></a>
                 <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img style="margin: 15px"
                         src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" height="50" /></a>
                 <a href="https://laravel.com/" target="_blank"><img style="margin: 15px"
