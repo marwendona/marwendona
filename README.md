@@ -70,17 +70,16 @@
                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" height="50" /></a>
                 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px"
                         src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
-                </br>
+                <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"><img style="margin: 15px"
+                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE4fAzck7tKDSDNKPB3kF7wJY4_kXWsCZhnS6mpZGlLAzeuKtNf9Ma9O5faOtDgxjqosE&usqp=CAU" alt="ASP.NET" height="50" /></a>
+                <a href="https://dotnet.microsoft.com/" target="_blank"><img style="margin: 15px"
+                        src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET" height="50" /></a>
                 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="50" /> </a>
                 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 15px"
                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/197px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="50" /></a>
                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img style="margin: 15px"
                         src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="C#" height="50" /></a>
-                <a href="https://dotnet.microsoft.com/" target="_blank"><img style="margin: 15px"
-                        src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET" height="50" /></a>
-                <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"><img style="margin: 15px"
-                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE4fAzck7tKDSDNKPB3kF7wJY4_kXWsCZhnS6mpZGlLAzeuKtNf9Ma9O5faOtDgxjqosE&usqp=CAU" alt="ASP.NET" height="50" /></a>
                 </br>
                 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px"
                         src="https://cdn.simpleicons.org/python/#3776AB" alt="Python" height="50" /></a>
@@ -112,10 +111,10 @@
                 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img style="margin: 15px"
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVXcUCEHFHY4Y6x0I6z3JHIC8YLbCJJ7SxaIy-okDQ8rnmWGtnYe25j-mP1SP2zZr4qYU&usqp=CAU" alt="SQL Server" height="50" /></a>
                 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 15px"
-                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaSkBk1dHyXNAKc0Ee0LE6c33MRkg3wZxHVMSYxvP6F-aLrtCqrGB9Mv1u0nUXr0UjYb0&usqp=CAU" alt="PostgreSQL" height="50" /></a>
+                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk3kSVpiWzJPf0wYuGbe65THoM8GAGYnemHAx_nTXw53gJVoUJCM8x2gzRy2sJernaCbQ&usqp=CAU" alt="PostgreSQL" height="50" /></a>
                 </br>
                 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 15px"
-                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsnk0C0845rdxpXlD4l3BGgk3_-6U35WiIr_EAAHHEgVWNpVrsvOQnarLqcHk7HnfnZw0&usqp=CAU" alt="MongoDB" height="50" /></a>
+                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTclnX8t9HBA1P1pUP1-8uw9NGbJOy_IfLlVovdtBoB4IaenK4CaoTpy7uFDLY4IX0VOr8&usqp=CAU" alt="MongoDB" height="50" /></a>
                 <a href="https://datascientest.com/data-warehouse" target="_blank"><img style="margin: 15px"
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfm372MMNLmYrwwMCX_VTMheFrxH2wj3cicG1iZx8pqK-NfPT4kfD-cV-X_jOnX3K-maU&usqp=CAU" alt="DATA WAREHOUSE" height="50" /></a>
             </div>
@@ -136,9 +135,9 @@
                     <a href="https://azure.microsoft.com/" target="_blank"><img style="margin: 15px"
                             src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/200px-Microsoft_Azure_Logo.svg.png" alt="Microsoft Azure" height="50" /></a>
                     <a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 15px"
-                            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1QI0e3AWz-EXUaK_CB563Gw5gCZca_GIzOOQaRC9xYNX3-bpRuS7gywfeE4qp42O_Lgs&usqp=CAU" alt="Hadoop" height="50" /></a>
+                            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcQS9mZRUbaz0FrR3ThEd4nygVuYwlmyEX1DpX9aauiFulFIcktFdACwt826eBSBT8T80&usqp=CAU" alt="Hadoop" height="50" /></a>
                     <a href="https://www.odoo.com/" target="_blank"><img style="margin: 15px"
-                            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfekbnjGxfBgI1PDwELYu-FUs6IJ8ivuClejbAGYZa0R0FA1KFFp0qMI5E26lGunhnr6U&usqp=CAU" alt="Odoo" height="50" /></a>
+                            src="https://cdn.worldvectorlogo.com/logos/odoo.svg" alt="Odoo" height="50" /></a>
                     <a href="https://bonitasoft.com/" target="_blank"><img style="margin: 15px"
                             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX0-idtM80gGM-i6Lud2zH8SRnH8MP5J85fACCx8ukv_3VhzPi3SaEaLX0TMnnLgQ4fvM&usqp=CAU" alt="Bonita Soft" height="50" /></a>
                     <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px"
