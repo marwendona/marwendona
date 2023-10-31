@@ -34,6 +34,7 @@
                         src="https://cdn.simpleicons.org/typescript/#3178C6" alt="TypeScript" height="50" /></a>
                 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 15px"
                         src="https://cdn.simpleicons.org/javaScript/#F7DF1E" alt="JavaScript" height="50" /></a>
+                </br>
                 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 15px"
                         src="https://cdn.simpleicons.org/html5/#E34F26" alt="HTML5" height="50" /></a>
                 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 15px"
@@ -42,12 +43,14 @@
                         src="https://cdn.simpleicons.org/bootstrap/#7952B3" alt="Bootstrap" height="50" /></a>
                 <a href="https://material.angular.io/" target="_blank"><img style="margin: 15px; display: block; margin-left: auto; margin-right: auto;"
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUnDVEqEe78HvQ9g-GMREzL1xFXgDRtcVuFUJL9qCq2XCCiAdy4oBSJXFNtdp9npGNrUM&usqp=CAU" alt="Angular Material" height="50" /></a>
+                </br>
                 <a href="https://flutter.dev/" target="_blank"><img style="margin: 15px"
                         src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" alt="Flutter" height="50" /></a>
                 <a href="https://dart.dev/" target="_blank"><img style="margin: 15px"
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWoxiRajTWnNdhHO1ZF2oxaJevJJZJ00AXxZxBzxEPBZGijOFEgKgYGAUtshf7jhoOEtQ&usqp=CAU" alt="Dart" height="50" /></a>
                 <a href="https://reactnative.dev/" target="_blank"><img style="margin: 15px"
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShQSuzoSO033la85_jAMD48b8TkB-zlphdBZxTl4HUqGJ3k1SFIutkkxCrCxYisxksSMc&usqp=CAU" alt="React Native" height="50" /></a>
+                </br>
                 <a href="https://powerbi.microsoft.com/" target="_blank"><img style="margin: 15px"
                          src="https://cdn.windowsreport.com/wp-content/uploads/2019/08/Power-bi-Authentication-error.jpg" alt="Power BI" height="50" /></a>
                 <a href="https://jquery.com/" target="_blank"><img style="margin: 15px"
@@ -67,6 +70,7 @@
                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" height="50" /></a>
                 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px"
                         src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
+                </br>
                 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="50" /> </a>
                 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 15px"
@@ -77,6 +81,7 @@
                         src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET" height="50" /></a>
                 <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"><img style="margin: 15px"
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE4fAzck7tKDSDNKPB3kF7wJY4_kXWsCZhnS6mpZGlLAzeuKtNf9Ma9O5faOtDgxjqosE&usqp=CAU" alt="ASP.NET" height="50" /></a>
+                </br>
                 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px"
                         src="https://cdn.simpleicons.org/python/#3776AB" alt="Python" height="50" /></a>
                 <a href="https://jupyter.org/" target="_blank"><img style="margin: 15px"
@@ -85,6 +90,7 @@
                         src="https://cdn-icons-png.flaticon.com/512/2464/2464397.png" alt="MACHINE LEARNING" height="50" /></a>
                 <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img style="margin: 15px"
                         src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" height="50" /></a>
+                </br>
                 <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px"
                         src="https://cdn.simpleicons.org/postman/#FF6C37" alt="Postman" height="50" /></a>
                 <a href="https://www.w3schools.com/js/js_json_intro.asp" target="_blank"><img style="margin: 10px"
@@ -102,10 +108,12 @@
                         src="https://cdn.simpleicons.org/phpmyadmin/#6C78AF" alt="phpMyAdmin" height="50" /></a>
                 <a href="https://www.SQLite.com/" target="_blank"><img style="margin: 10px"
                         src="https://cdn.simpleicons.org/SQLite/#003B57" alt="SQLite" height="50" /></a>
+                </br>
                 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img style="margin: 15px"
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVXcUCEHFHY4Y6x0I6z3JHIC8YLbCJJ7SxaIy-okDQ8rnmWGtnYe25j-mP1SP2zZr4qYU&usqp=CAU" alt="SQL Server" height="50" /></a>
                 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 15px"
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaSkBk1dHyXNAKc0Ee0LE6c33MRkg3wZxHVMSYxvP6F-aLrtCqrGB9Mv1u0nUXr0UjYb0&usqp=CAU" alt="PostgreSQL" height="50" /></a>
+                </br>
                 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 15px"
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsnk0C0845rdxpXlD4l3BGgk3_-6U35WiIr_EAAHHEgVWNpVrsvOQnarLqcHk7HnfnZw0&usqp=CAU" alt="MongoDB" height="50" /></a>
                 <a href="https://datascientest.com/data-warehouse" target="_blank"><img style="margin: 15px"
