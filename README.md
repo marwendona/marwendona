@@ -46,9 +46,9 @@
                 <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
                 <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
                 <a href="https://flutter.dev/" target="_blank"><img style="margin: 15px"
-                        src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" alt="Flutter" height="50" /></a>
+                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" /></a>
                 <a href="https://dart.dev/" target="_blank"><img style="margin: 15px"
-                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWoxiRajTWnNdhHO1ZF2oxaJevJJZJ00AXxZxBzxEPBZGijOFEgKgYGAUtshf7jhoOEtQ&usqp=CAU" alt="Dart" height="50" /></a>
+                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg" alt="Dart" width="40" height="40" /></a>
                 </br>
                 <a href="https://powerbi.microsoft.com/" target="_blank"><img style="margin: 15px"
                          src="https://cdn.windowsreport.com/wp-content/uploads/2019/08/Power-bi-Authentication-error.jpg" alt="Power BI" height="50" /></a>
@@ -72,7 +72,7 @@
                 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 15px"
                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/197px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="50" /></a>
                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img style="margin: 15px"
-                        src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="C#" height="50" /></a>
+                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" /></a>
                 <a href="https://dotnet.microsoft.com/" target="_blank"><img style="margin: 15px"
                         src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET" height="50" /></a>
                 <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"><img style="margin: 15px"
@@ -134,7 +134,7 @@
                 <a href="https://github.com/" target="_blank"><img style="margin: 10px"
                             src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
                     <a href="https://jenkins.io/" target="_blank"><img style="margin: 15px"
-                            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNhykAGH18mwMYkkyHOb8JyqiMECmDg1dsyXIleJcUZY1yS_2Zn6jYoGYiHo3Y2Vr11h8&usqp=CAU" alt="Jenkins" height="50" /></a>
+                            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" /></a>
                     <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px"
                             src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
                     <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px"
