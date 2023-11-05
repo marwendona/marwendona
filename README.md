@@ -142,12 +142,12 @@
                             src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" /></a>
                     <a href="https://azure.microsoft.com/" target="_blank"><img style="margin: 15px"
                             src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/200px-Microsoft_Azure_Logo.svg.png" 
-                                                                               alt="Microsoft Azure" width="40" height="40" width="75" /></a>
+                                                                               alt="Microsoft Azure" height="40" width="75" /></a>
                     <a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 15px"
                             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcQS9mZRUbaz0FrR3ThEd4nygVuYwlmyEX1DpX9aauiFulFIcktFdACwt826eBSBT8T80&usqp=CAU" 
                                                                              alt="Hadoop" width="40" height="40"/></a>
                     <a href="https://www.odoo.com/" target="_blank"><img style="margin: 15px"
-                            src="https://cdn.worldvectorlogo.com/logos/odoo.svg" alt="Odoo" width="40" height="40" /></a>
+                            src="https://cdn.worldvectorlogo.com/logos/odoo.svg" alt="Odoo" width="40" height="50" /></a>
                     <a href="https://bonitasoft.com/" target="_blank"><img style="margin: 15px"
                             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX0-idtM80gGM-i6Lud2zH8SRnH8MP5J85fACCx8ukv_3VhzPi3SaEaLX0TMnnLgQ4fvM&usqp=CAU" 
                                                                           alt="Bonita Soft" width="40" height="40" /></a>
