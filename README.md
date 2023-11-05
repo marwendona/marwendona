@@ -41,9 +41,10 @@
                 <a href="https://material.angular.io/" target="_blank"><img style="margin: 15px; display: block; margin-left: auto; margin-right: auto;"
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUnDVEqEe78HvQ9g-GMREzL1xFXgDRtcVuFUJL9qCq2XCCiAdy4oBSJXFNtdp9npGNrUM&usqp=CAU" alt="Angular Material" height="50" /></a>
                 </br>
-                <a href="https://reactnative.dev/" target="_blank"><img style="margin: 15px"
-                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShQSuzoSO033la85_jAMD48b8TkB-zlphdBZxTl4HUqGJ3k1SFIutkkxCrCxYisxksSMc&usqp=CAU" 
-                                                                       alt="React Native" height="50" width="70"/></a>
+                <a href="https://developer.android.com" target="_blank"><img style="margin: 15px" 
+                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
+                <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
+                <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
                 <a href="https://flutter.dev/" target="_blank"><img style="margin: 15px"
                         src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" alt="Flutter" height="50" /></a>
                 <a href="https://dart.dev/" target="_blank"><img style="margin: 15px"
@@ -79,7 +80,7 @@
                                                                                        lt="ASP.NET" height="50" width="40"/></a>
                 </br>
                 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px"
-                        src="https://cdn.simpleicons.org/python/#3776AB" alt="Python" height="50" /></a>
+                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50" /></a>
                 <a href="https://jupyter.org/" target="_blank"><img style="margin: 15px"
                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter Notebook" height="50" /></a>
                 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 15px"
@@ -120,7 +121,7 @@
                                                                                          alt="SQL Server" height="50" width="50" /></a>
                 </br>
                 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 15px"
-                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTclnX8t9HBA1P1pUP1-8uw9NGbJOy_IfLlVovdtBoB4IaenK4CaoTpy7uFDLY4IX0VOr8&usqp=CAU" alt="MongoDB" height="50" /></a>
+                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
                 <a href="https://datascientest.com/data-warehouse" target="_blank"><img style="margin: 15px"
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfm372MMNLmYrwwMCX_VTMheFrxH2wj3cicG1iZx8pqK-NfPT4kfD-cV-X_jOnX3K-maU&usqp=CAU" alt="DATA WAREHOUSE" height="50" /></a>
             </div>
