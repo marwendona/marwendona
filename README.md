@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marwen KAMMOUN</h1>
 <h3 align="center">Developer & Data Scientist</h3>
-<div align="center">
+<div>
     <img alt="Coding" width="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 <h3> Connect With Me </h3>
 <p>
