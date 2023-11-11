@@ -3,7 +3,7 @@
 <div>
     <table>
     <tr>
-        <td valign="top" width="50%">
+        <td valign="top">
             <h3 align="center"> Connect With Me </h3>
             <p><a href="mailto:marwenkammoun3@gmail.com" target="blank"><img align="center"
                 src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="marwenkammoun3" height="30" width="40" /></a>
@@ -20,7 +20,7 @@
             <h3 align="center"> QR Code LinkedIn :   <a href="https://www.linkedin.com/in/marwen-kammoun-22252a192" target="blank"><img align="center" 
                 src="QRCodeLinkedin.jpg" alt="marwen-kammoun-QRCodeLinkedIn" height="80" width="80"/></a></h3>
         </td>
-        <td valign="top" width="50%">
+        <td valign="top">
             <img align="center" alt="Coding" width="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
         </td>
     </tr>
