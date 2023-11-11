@@ -4,7 +4,7 @@
     <table align="center" style="width: 100%; border-collapse: collapse;">
     <tr>
         <td width="33%" style="vertical-align: top;">
-            <img alt="Coding" style="display: block; margin: 0 auto;" width="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+            <img alt="Coding" style="display: block; margin: 0 auto;" width="250" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
         </td>
         <td width="33%" style="vertical-align: top;">
             <h3 align="center">Connect With Me</h3>
