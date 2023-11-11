@@ -18,8 +18,8 @@
     <a href="https://twitter.com/marwen_kammoun" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marwen_kammoun" height="30" width="40" /></a>
 </p>
-<h3 align="center"> QR Code LinkedIn : </h3><a href="https://www.linkedin.com/in/marwen-kammoun-22252a192" target="blank"><img align="center"
-            src="QRCodeLinkedin.jpg" alt="marwen-kammoun-QRCodeLinkedIn" height="50" width="50" /></a>
+<h3 align="center"> QR Code LinkedIn : <a href="https://www.linkedin.com/in/marwen-kammoun-22252a192" target="blank"><img align="center"
+            src="QRCodeLinkedin.jpg" alt="marwen-kammoun-QRCodeLinkedIn" height="80" width="80" /></a></h3>
 
 <h3 align="center"> 🔧 Technologies & Tools </h3>
 <table>
