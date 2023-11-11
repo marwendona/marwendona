@@ -5,7 +5,7 @@
     <table>
     <tr>
         <td width="33%" style="vertical-align: top;">
-            <img alt="Coding2" style="display: block; margin: 0 auto;" width="300" height="200" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+            <img alt="Coding2" style="display: block; margin: 0 auto;" width="270" height="200" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
         </td>
         <td width="33%" style="vertical-align: top;">
             <h3 align="center">Connect With Me</h3>
@@ -22,7 +22,7 @@
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marwen_kammoun" height="30" width="40" /></a>
             </p>
             <p style="vertical-align: top;"><h3 align="center">QR Code LinkedIn</h3>
-                <h3>    </h3><img alt="Coding" style="display: block; margin: 0 auto;" align="center" src="QRCodeLinkedin.jpg" alt="marwenkammounQRCodeLinkedIn" height="140" width="140"/>
+                <h3>    <img alt="Coding" style="display: block; margin: 0 auto;" align="center" src="QRCodeLinkedin.jpg" alt="marwenkammounQRCodeLinkedIn" height="140" width="140"/></h3>
             </p>
         </td>
         <td width="33%" style="vertical-align: top;">
@@ -172,7 +172,7 @@
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=marwendona&show_icons=true&locale=en&theme=react" alt="marwendona" width="45%" align="left" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=marwendona&theme=react" alt="marwendona" width="45%" align="right"/>
 </p>
-<h3> </h3>
+<p><h3> </h3></p>
 <p align="center"> 
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=marwendona&show_icons=true&locale=en&layout=compact&theme=react" alt="marwendona" width="50%" align="center"/>
 </p> 
