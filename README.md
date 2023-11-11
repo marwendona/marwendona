@@ -17,8 +17,11 @@
             <a href="https://twitter.com/marwen_kammoun" target="blank"><img
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marwen_kammoun" height="30" width="40" /></a>
             </p>
-            <p align="center"><h3>QR Code LinkedIn</h3>
-                <a href="https://www.linkedin.com/in/marwen-kammoun-22252a192" target="blank"><img src="QRCodeLinkedin.jpg" alt="marwen-kammoun-QRCodeLinkedIn" height="90" width="90"/></a>
+            <p style="text-align: center;">
+                <span style="display: block; text-align: center;">
+                    <h3>QR Code LinkedIn</h3>
+                    <a href="https://www.linkedin.com/in/marwen-kammoun-22252a192" target="blank"><img src="QRCodeLinkedin.jpg" alt="marwen-kammoun-QRCodeLinkedIn" height="90" width="90"/></a>
+                </span>
             </p>
         </td>
         <td width="50%" style="vertical-align: top;">
