@@ -17,11 +17,12 @@
             <a href="https://twitter.com/marwen_kammoun" target="blank"><img
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marwen_kammoun" height="30" width="40" /></a>
             </p>
-            <h3 style="text-align: center;">QR Code LinkedIn: <a href="https://www.linkedin.com/in/marwen-kammoun-22252a192" target="blank"><img 
-                src="QRCodeLinkedin.jpg" alt="marwen-kammoun-QRCodeLinkedIn" height="80" width="80"/></a></h3>
+            <p><h3 style="text-align: center;">QR Code LinkedIn</h3>
+                <a href="https://www.linkedin.com/in/marwen-kammoun-22252a192" target="blank"><img align="center" src="QRCodeLinkedin.jpg" alt="marwen-kammoun-QRCodeLinkedIn" height="80" width="80"/></a>
+            </p>
         </td>
         <td width="50%" style="vertical-align: top;">
-            <img alt="Coding" style="display: block; margin: 0 auto;" width="500" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+            <img alt="Coding" style="display: block; margin: 0 auto;" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
         </td>
     </tr>
 </table>
