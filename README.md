@@ -1,27 +1,27 @@
 <h1 align="center">Hi 👋, I'm Marwen KAMMOUN</h1>
 <h3 align="center">Developer & Data Scientist</h3>
 <div>
-    <table style="width: 100%">
+    <table style="width: 100%; border-collapse: collapse;">
     <tr>
-        <td valign="top" width="50%">
-            <h3 align="center"> Connect With Me </h3>
-            <p><a href="mailto:marwenkammoun3@gmail.com" target="blank"><img align="center"
+        <td width="50%" style="vertical-align: top;">
+            <h3 style="text-align: center;">Connect With Me</h3>
+            <p><a href="mailto:marwenkammoun3@gmail.com" target="blank"><img
                 src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="marwenkammoun3" height="30" width="40" /></a>
-            <a href="mailto:KAMMOUNMARWEN@iit.ens.tn" target="_blank"><img align="center"
+            <a href="mailto:KAMMOUNMARWEN@iit.ens.tn" target="_blank"><img
                 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjPWa57XR6nTz37D9XSWANAF0QYMaNT5rUBZfvmMLrU5gbW4eX70xICEbo1ZLJCa-DPzE&usqp=CAU" alt="KAMMOUNMARWEN" height="30" width="40" /></a>
-            <a href="https://www.linkedin.com/in/marwen-kammoun-22252a192" target="blank"><img align="center"
+            <a href="https://www.linkedin.com/in/marwen-kammoun-22252a192" target="blank"><img
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
                                                                           alt="marwen-kammoun-22252a192" height="30" width="40" /></a>
-            <a href="https://www.facebook.com/marwendona" target="blank"><img align="center"
+            <a href="https://www.facebook.com/marwendona" target="blank"><img
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marwendona" height="30" width="40" /></a>
-            <a href="https://twitter.com/marwen_kammoun" target="blank"><img align="center"
+            <a href="https://twitter.com/marwen_kammoun" target="blank"><img
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marwen_kammoun" height="30" width="40" /></a>
             </p>
-            <h3 align="center"> QR Code LinkedIn <a href="https://www.linkedin.com/in/marwen-kammoun-22252a192" target="blank"><img align="center" 
+            <h3 style="text-align: center;">QR Code LinkedIn: <a href="https://www.linkedin.com/in/marwen-kammoun-22252a192" target="blank"><img 
                 src="QRCodeLinkedin.jpg" alt="marwen-kammoun-QRCodeLinkedIn" height="80" width="80"/></a></h3>
         </td>
-        <td valign="top" width="50%">
-            <img align="center" alt="Coding" width="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+        <td width="50%" style="vertical-align: top;">
+            <img alt="Coding" style="display: block; margin: 0 auto;" width="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
         </td>
     </tr>
 </table>
