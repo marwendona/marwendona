@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marwen KAMMOUN</h1>
 <h3 align="center">Developer & Data Scientist</h3>
 <div>
-    <table style="width: 100%; border-collapse: collapse;">
+    <table align="center" style="width: 100%; border-collapse: collapse;">
     <tr>
         <td width="50%" style="vertical-align: top;">
             <h3 style="text-align: center;">Connect With Me</h3>
@@ -21,7 +21,7 @@
                 src="QRCodeLinkedin.jpg" alt="marwen-kammoun-QRCodeLinkedIn" height="80" width="80"/></a></h3>
         </td>
         <td width="50%" style="vertical-align: top;">
-            <img alt="Coding" style="display: block; margin: 0 auto;" width="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+            <img alt="Coding" style="display: block; margin: 0 auto;" width="500" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
         </td>
     </tr>
 </table>
