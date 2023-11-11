@@ -18,7 +18,7 @@
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marwen_kammoun" height="30" width="40" /></a>
             </p>
             <p align="center"><h3 align="center">QR Code LinkedIn</h3>
-                <a href="https://www.linkedin.com/in/marwen-kammoun-22252a192" target="blank"><img align="center" src="QRCodeLinkedin.jpg" alt="marwen-kammoun-QRCodeLinkedIn" height="90" width="90"/></a>
+                <a href="https://www.linkedin.com/in/marwen-kammoun-22252a192" target="blank"><img align="center" src="QRCodeLinkedin.jpg" alt="marwenkammounQRCodeLinkedIn" height="150" width="150"/></a>
             </p>
         </td>
         <td width="50%" style="vertical-align: top;">
