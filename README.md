@@ -2,8 +2,6 @@
 <h3 align="center">Developer & Data Scientist</h3>
 <div align="center">
     <img alt="Coding" width="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-</div>
-
 <h3> Connect With Me </h3>
 <p>
     <a href="mailto:marwenkammoun3@gmail.com" target="blank"><img align="center"
@@ -20,6 +18,7 @@
 </p>
 <h3> QR Code LinkedIn : <a href="https://www.linkedin.com/in/marwen-kammoun-22252a192" target="blank"><img src="QRCodeLinkedin.jpg" 
             alt="marwen-kammoun-QRCodeLinkedIn" height="80" width="80"/></a></h3>
+</div>
 
 <h3 align="center"> 🔧 Technologies & Tools </h3>
 <table>
