@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marwen KAMMOUN</h1>
 <h3 align="center">Developer & Data Scientist</h3>
 <div>
-    <table style="width: 100%>
+    <table style="width: 100%">
     <tr>
         <td valign="top" width="50%">
             <h3 align="center"> Connect With Me </h3>
