@@ -1,3 +1,4 @@
+<img alt="Coding" style="display: block; margin: 0 auto;" src="https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/header_.png" />
 <h1 align="center">Hi 👋, I'm Marwen KAMMOUN</h1>
 <h3 align="center">Developer & Data Scientist</h3>
 <div>
@@ -171,7 +172,8 @@
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=marwendona&show_icons=true&locale=en&theme=react" alt="marwendona" width="45%" align="left" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=marwendona&theme=react" alt="marwendona" width="45%" align="right"/>
 </p>
-</br>
+
+<br>
 <p align="center"> 
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=marwendona&show_icons=true&locale=en&layout=compact&theme=react" alt="marwendona" width="50%" align="center"/>
 </p> 
