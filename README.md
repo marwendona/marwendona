@@ -3,7 +3,10 @@
 <div>
     <table align="center" style="width: 100%; border-collapse: collapse;">
     <tr>
-        <td width="50%" style="vertical-align: top;">
+        <td width="33%" style="vertical-align: top;">
+            <img alt="Coding" style="display: block; margin: 0 auto;" width="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+        </td>
+        <td width="33%" style="vertical-align: top;">
             <h3 align="center">Connect With Me</h3>
             <p><a href="mailto:marwenkammoun3@gmail.com" target="blank"><img
                 src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="marwenkammoun3" height="30" width="40" /></a>
@@ -18,11 +21,11 @@
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marwen_kammoun" height="30" width="40" /></a>
             </p>
             <p align="center"><h3 align="center">QR Code LinkedIn</h3>
-                <a href="https://www.linkedin.com/in/marwen-kammoun-22252a192" target="blank"><img align="center" src="QRCodeLinkedin.jpg" alt="marwenkammounQRCodeLinkedIn" height="150" width="150"/></a>
+                <a href="https://www.linkedin.com/in/marwen-kammoun-22252a192" target="blank"><img align="center" src="QRCodeLinkedin.jpg" alt="marwenkammounQRCodeLinkedIn" height="140" width="140"/></a>
             </p>
         </td>
-        <td width="50%" style="vertical-align: top;">
-            <img alt="Coding" style="display: block; margin: 0 auto;" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+        <td width="33%" style="vertical-align: top;">
+            <img alt="Coding" style="display: block; margin: 0 auto;" width="300" src="https://www.iventra.com/assets/images/bg/back-end-developer.gif" />
         </td>
     </tr>
 </table>
