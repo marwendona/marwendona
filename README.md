@@ -18,6 +18,8 @@
     <a href="https://twitter.com/marwen_kammoun" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marwen_kammoun" height="30" width="40" /></a>
 </p>
+<h3 align="center"> QR Code LinkedIn : </h3><a href="https://www.linkedin.com/in/marwen-kammoun-22252a192" target="blank"><img align="center"
+            src="QRCodeLinkedin.jpg" alt="marwen-kammoun-QRCodeLinkedIn" height="50" width="50" /></a>
 
 <h3 align="center"> 🔧 Technologies & Tools </h3>
 <table>
@@ -25,17 +27,12 @@
         <td valign="top" width="33%">
             <h3 align="center">Frontend</h3>
             <div align="center">
-                <a href="https://angular.io/" target="_blank"><img style="margin: 15px"
-                        src="https://cdn.iconscout.com/icon/free/png-256/angular-226066.png" alt="Angular" width="40" height="40" /></a>
-                <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 15px"
-                        src="https://cdn.simpleicons.org/typescript/#3178C6" alt="TypeScript" width="40" height="40" /></a>
-                <a href="https://www.javascript.com/" target="_blank"><img style="margin: 15px"
-                        src="https://cdn.simpleicons.org/javaScript/#F7DF1E" alt="JavaScript" width="40" height="40" /></a>
+                <a href="https://angular.io/" target="_blank"><img style="margin: 15px" src="https://cdn.iconscout.com/icon/free/png-256/angular-226066.png" alt="Angular" width="40" height="40" /></a>
+                <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 15px" src="https://cdn.simpleicons.org/typescript/#3178C6" alt="TypeScript" width="40" height="40" /></a>
+                <a href="https://www.javascript.com/" target="_blank"><img style="margin: 15px" src="https://cdn.simpleicons.org/javaScript/#F7DF1E" alt="JavaScript" width="40" height="40" /></a>
                 </br>
-                <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 15px"
-                        src="https://cdn.simpleicons.org/html5/#E34F26" alt="HTML5" width="40" height="40" /></a>
-                <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 15px"
-                        src="https://cdn.simpleicons.org/css3/#1572B6" alt="CSS3" width="40" height="40" /></a>
+                <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 15px" src="https://cdn.simpleicons.org/html5/#E34F26" alt="HTML5" width="40" height="40" /></a>
+                <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 15px" src="https://cdn.simpleicons.org/css3/#1572B6" alt="CSS3" width="40" height="40" /></a>
                 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 15px"
                         src="https://cdn.simpleicons.org/bootstrap/#7952B3" alt="Bootstrap" width="40" height="40" /></a>
                 <a href="https://material.angular.io/" target="_blank"><img style="margin: 15px"
@@ -53,8 +50,7 @@
                 </br>
                 <a href="https://powerbi.microsoft.com/" target="_blank"><img style="margin: 15px"
                          src="https://cdn.windowsreport.com/wp-content/uploads/2019/08/Power-bi-Authentication-error.jpg" alt="Power BI" width="40" height="40" /></a>
-                <a href="https://jquery.com/" target="_blank"><img style="margin: 15px"
-                        src="https://cdn.simpleicons.org/jquery/#0769AD" alt="jQuery" width="40" height="40" /></a>
+                <a href="https://jquery.com/" target="_blank"><img style="margin: 15px" src="https://cdn.simpleicons.org/jquery/#0769AD" alt="jQuery" width="40" height="40" /></a>
             </div>
         </td>
         <td valign="top" width="33%">
@@ -66,16 +62,17 @@
                 <a href="https://java.com/" target="_blank"><img style="margin: 15px"
                         src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/131px-Java_programming_language_logo.svg.png" alt="Java" width="40" height="40" /></a>
                 <a href="https://www.oracle.com/java/technologies/javaee" target="_blank"><img style="margin: 15px"
-                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIK3iAdcz6N-v95EcniWPhkEh9LQCj9JoYoC7YWmThdimCl3DWyzN8-p7Lbk0frlWraP8&usqp=CAU" alt="Java EE" width="40" height="40" /></a>
+                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIK3iAdcz6N-v95EcniWPhkEh9LQCj9JoYoC7YWmThdimCl3DWyzN8-p7Lbk0frlWraP8&usqp=CAU" 
+                                                                                              alt="Java EE" width="40" height="40" /></a>
                 </br>
                 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> </a>
+                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></a>
                 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 15px"
-                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/197px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40" /></a>
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/197px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40"/></a>
                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img style="margin: 15px"
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" /></a>
+                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
                 <a href="https://dotnet.microsoft.com/" target="_blank"><img style="margin: 15px"
-                        src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET" width="40" height="40" /></a>
+                        src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET" width="40" height="40"/></a>
                 <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"><img style="margin: 15px"
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE4fAzck7tKDSDNKPB3kF7wJY4_kXWsCZhnS6mpZGlLAzeuKtNf9Ma9O5faOtDgxjqosE&usqp=CAU" 
                                                                                        alt="ASP.NET" width="40" height="40"/></a>
@@ -93,8 +90,7 @@
                         src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40" /></a>
                 <a href="https://laravel.com/" target="_blank"><img style="margin: 15px"
                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" width="40" height="40" /></a>
-                <a href="https://www.php.net/" target="_blank"><img style="margin: 10px"
-                        src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" width="40" height="40" /></a>
+                <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" width="40" height="40" /></a>
                 <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/postman/#FF6C37" alt="Postman" width="40" height="40" /></a>
                 <a href="https://www.w3schools.com/js/js_json_intro.asp" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/json/#000000" alt="JSON" width="40" height="40" /></a>
                 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" width="40" height="40" /></a>
@@ -105,10 +101,8 @@
             <div align="center">
                 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px"
                         src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /></a>
-                <a href="https://www.phpmyadmin.net/" target="_blank"><img style="margin: 10px"
-                        src="https://cdn.simpleicons.org/phpmyadmin/#6C78AF" alt="phpMyAdmin" width="40" height="40" /></a>
-                <a href="https://www.SQLite.com/" target="_blank"><img style="margin: 10px"
-                        src="https://cdn.simpleicons.org/SQLite/#003B57" alt="SQLite" width="40" height="40" /></a>
+                <a href="https://www.phpmyadmin.net/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/phpmyadmin/#6C78AF" alt="phpMyAdmin" width="40" height="40" /></a>
+                <a href="https://www.SQLite.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/SQLite/#003B57" alt="SQLite" width="40" height="40" /></a>
                 </br>
                 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 15px"
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk3kSVpiWzJPf0wYuGbe65THoM8GAGYnemHAx_nTXw53gJVoUJCM8x2gzRy2sJernaCbQ&usqp=CAU" 
@@ -132,8 +126,7 @@
         <td valign="top" colspan="3">
             <h3 align="center">Technology Stack</h3>
             <div align="center">
-                <a href="https://github.com/" target="_blank"><img style="margin: 10px"
-                            src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="40" height="40" /></a>
+                    <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="40" height="40" /></a>
                     <a href="https://jenkins.io/" target="_blank"><img style="margin: 15px"
                             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" /></a>
                     <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px"
@@ -141,16 +134,14 @@
                     <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px"
                             src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" /></a>
                     <a href="https://azure.microsoft.com/" target="_blank"><img style="margin: 15px"
-                            src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/200px-Microsoft_Azure_Logo.svg.png" 
-                                                                               alt="Microsoft Azure" height="40" width="75" /></a>
+                            src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/200px-Microsoft_Azure_Logo.svg.png"  alt="Microsoft Azure" height="40" width="75"/></a>
                     <a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 15px"
                             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcQS9mZRUbaz0FrR3ThEd4nygVuYwlmyEX1DpX9aauiFulFIcktFdACwt826eBSBT8T80&usqp=CAU" 
-                                                                             alt="Hadoop" width="40" height="40"/></a>
-                    <a href="https://www.odoo.com/" target="_blank"><img style="margin: 15px"
-                            src="https://cdn.worldvectorlogo.com/logos/odoo.svg" alt="Odoo" width="40" height="50" /></a>
+                                                                            alt="Hadoop" width="40" height="40"/></a>
+                    <a href="https://www.odoo.com/" target="_blank"><img style="margin: 15px" src="https://cdn.worldvectorlogo.com/logos/odoo.svg" alt="Odoo" width="40" height="50" /></a>
                     <a href="https://bonitasoft.com/" target="_blank"><img style="margin: 15px"
                             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX0-idtM80gGM-i6Lud2zH8SRnH8MP5J85fACCx8ukv_3VhzPi3SaEaLX0TMnnLgQ4fvM&usqp=CAU" 
-                                                                          alt="Bonita Soft" width="40" height="40" /></a>
+                                                alt="Bonita Soft" width="40" height="40" /></a>
                     <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px"
                             src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="40" height="40" /></a>
                     <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px"
@@ -167,9 +158,7 @@
 </table>
 
 <p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=marwendona&show_icons=true&locale=en&layout=compact"
-        alt="marwendona" width="45%" align="left"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=marwendona&show_icons=true&locale=en&layout=compact" alt="marwendona" width="45%" align="left"/>
     </br>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=marwendona&show_icons=true&locale=en"
-        alt="marwendona" width="45%" align="right" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=marwendona&show_icons=true&locale=en" alt="marwendona" width="45%" align="right" />
 </p> 
