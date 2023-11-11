@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marwen KAMMOUN</h1>
 <h3 align="center">Developer & Data Scientist</h3>
 <div>
-    <table>
+    <table style="width: 100%>
     <tr>
-        <td valign="top">
+        <td valign="top" width="50%">
             <h3 align="center"> Connect With Me </h3>
             <p><a href="mailto:marwenkammoun3@gmail.com" target="blank"><img align="center"
                 src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="marwenkammoun3" height="30" width="40" /></a>
@@ -17,10 +17,10 @@
             <a href="https://twitter.com/marwen_kammoun" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marwen_kammoun" height="30" width="40" /></a>
             </p>
-            <h3 align="center"> QR Code LinkedIn :   <a href="https://www.linkedin.com/in/marwen-kammoun-22252a192" target="blank"><img align="center" 
+            <h3 align="center"> QR Code LinkedIn <a href="https://www.linkedin.com/in/marwen-kammoun-22252a192" target="blank"><img align="center" 
                 src="QRCodeLinkedin.jpg" alt="marwen-kammoun-QRCodeLinkedIn" height="80" width="80"/></a></h3>
         </td>
-        <td valign="top">
+        <td valign="top" width="50%">
             <img align="center" alt="Coding" width="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
         </td>
     </tr>
