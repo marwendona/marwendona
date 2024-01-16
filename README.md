@@ -12,7 +12,7 @@
             <p align="center"><a href="mailto:marwenkammoun3@gmail.com" target="blank"><img
                 src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="marwenkammoun3" height="30" width="40" /></a>
             <a href="mailto:KAMMOUNMARWEN@iit.ens.tn" target="_blank"><img
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjPWa57XR6nTz37D9XSWANAF0QYMaNT5rUBZfvmMLrU5gbW4eX70xICEbo1ZLJCa-DPzE&usqp=CAU" alt="KAMMOUNMARWEN" height="30" width="40" /></a>
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjPWa57XR6nTz37D9XSWANAF0QYMaNT5rUBZfvmMLrU5gbW4eX70xICEbo1ZLJCa-DPzE&usqp=CAU" alt="KAMMOUNMARWEN" height="30" width="50" /></a>
             </p>
             <p>
             <a href="https://www.linkedin.com/in/marwen-kammoun-22252a192" target="blank"><img
@@ -173,4 +173,5 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwendona&layout=donut-vertical&theme=radical&langs_count=8"   
         alt="marwendona" width="45%" align="left"/>
     <img src="https://github-readme-stats.vercel.app/api?username=marwendona&show_icons=true&theme=radical" alt="marwendona" width="45%" align="right" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=marwendona&theme=radical" alt="marwendona" width="45%" align="right" />
 </p> 
