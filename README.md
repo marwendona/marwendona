@@ -169,6 +169,6 @@
 </table>
 
 <p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=marwendona&show_icons=true&locale=en&layout=compact&theme=react" alt="marwendona" width="45%" align="left"/>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=marwendona&show_icons=true&locale=en&theme=react" alt="marwendona" width="45%" align="right" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwendona&layout=donut-vertical&theme=radical" alt="marwendona" width="45%" align="left"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=marwendona&show_icons=true&theme=radical" alt="marwendona" width="45%" align="right" />
 </p> 
