@@ -5,7 +5,7 @@
     <table>
     <tr>
         <td width="33%" style="vertical-align: top;" align="center">
-            <img alt="Coding2" style="display: block; margin: 0 auto;" width="270" height="200" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+            <img alt="Coding2" style="display: block; margin: 0 auto;" width="300" height="200" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
         </td>
         <td width="33%" style="vertical-align: top;" align="center">
             <h3 align="center">Connect With Me</h3>
@@ -174,6 +174,7 @@
         alt="marwendona" width="45%" align="left"/>
     <br><br><br>
     <img src="https://github-readme-stats.vercel.app/api?username=marwendona&show_icons=true&theme=radical" alt="marwendona" width="45%" align="right" />
+    <br><br><br>
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=marwendona&theme=radical" alt="GitHub Streak" 
                                               width="45%" align="right" /></a>
 </p> 
