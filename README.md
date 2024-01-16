@@ -4,15 +4,15 @@
 <div>
     <table>
     <tr>
-        <td width="38%" style="vertical-align: top;" align="center">
+        <td width="33%" style="vertical-align: top;" align="center">
             <img alt="Coding2" style="display: block; margin: 0 auto;" width="270" height="200" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
         </td>
-        <td width="23%" style="vertical-align: top;" align="center">
+        <td width="33%" style="vertical-align: top;" align="center">
             <h3 align="center">Connect With Me</h3>
             <p align="center"><a href="mailto:marwenkammoun3@gmail.com" target="blank"><img
                 src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="marwenkammoun3" height="30" width="40" /></a>
             <a href="mailto:KAMMOUNMARWEN@iit.ens.tn" target="_blank"><img
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjPWa57XR6nTz37D9XSWANAF0QYMaNT5rUBZfvmMLrU5gbW4eX70xICEbo1ZLJCa-DPzE&usqp=CAU" alt="KAMMOUNMARWEN" height="30" width="50" /></a>
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjPWa57XR6nTz37D9XSWANAF0QYMaNT5rUBZfvmMLrU5gbW4eX70xICEbo1ZLJCa-DPzE&usqp=CAU" alt="KAMMOUNMARWEN" height="30" width="40" /></a>
             </p>
             <p>
             <a href="https://www.linkedin.com/in/marwen-kammoun-22252a192" target="blank"><img
@@ -26,7 +26,7 @@
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marwen_kammoun" height="30" width="40" /></a>
             </p>
         </td>
-        <td width="38%" style="vertical-align: top;" align="center">
+        <td width="33%" style="vertical-align: top;" align="center">
             <img alt="Coding3" style="display: block; margin: 0 auto;" width="300" height="200" src="https://camo.githubusercontent.com/56362def1bbc81d47e30e00d1f680d6698e05f1175c47957ef4a058ff3a840d5/68747470733a2f2f6c66736f6c7574696f6e732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31322f46756c6c2d537461636b2d446576656c6f706d656e742d46656174757265642d496d6167652d4c6576656c466976652d536f6c7574696f6e732e676966" />
         </td>
     </tr>
@@ -172,6 +172,8 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwendona&layout=donut-vertical&theme=radical&langs_count=8"   
         alt="marwendona" width="45%" align="left"/>
+    <br><br><br>
     <img src="https://github-readme-stats.vercel.app/api?username=marwendona&show_icons=true&theme=radical" alt="marwendona" width="45%" align="right" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=marwendona&theme=radical" alt="marwendona" width="45%" align="right" />
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=marwendona&theme=radical" alt="GitHub Streak" 
+                                              width="45%" align="right" /></a>
 </p> 
