@@ -51,14 +51,14 @@
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUnDVEqEe78HvQ9g-GMREzL1xFXgDRtcVuFUJL9qCq2XCCiAdy4oBSJXFNtdp9npGNrUM&usqp=CAU" 
                                                                            alt="Angular Material" width="40" height="40" /></a>
                 </br>
-                <a href="https://developer.android.com" target="_blank"><img style="margin: 15px" 
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-                <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
-                <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
                 <a href="https://flutter.dev/" target="_blank"><img style="margin: 15px"
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" /></a>
                 <a href="https://dart.dev/" target="_blank"><img style="margin: 15px"
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg" alt="Dart" width="40" height="40" /></a>
+                <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
+                <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+                <a href="https://developer.android.com" target="_blank"><img style="margin: 15px" 
+                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
                 </br>
                 <a href="https://powerbi.microsoft.com/" target="_blank"><img style="margin: 15px"
                          src="https://cdn.windowsreport.com/wp-content/uploads/2019/08/Power-bi-Authentication-error.jpg" alt="Power BI" width="40" height="40" /></a>
@@ -89,20 +89,27 @@
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE4fAzck7tKDSDNKPB3kF7wJY4_kXWsCZhnS6mpZGlLAzeuKtNf9Ma9O5faOtDgxjqosE&usqp=CAU" 
                                                                                        alt="ASP.NET" width="40" height="40"/></a>
                 </br>
+                <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px"
+                        src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png" alt="Django" width="40" height="40" /></a>
+                <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"><img style="margin: 10px"
+                        src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" alt="Flask" width="40" height="40" /></a>
                 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px"
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a>
                 <a href="https://jupyter.org/" target="_blank"><img style="margin: 15px"
                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width="40" height="40" /></a>
+                <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img style="margin: 15px"
+                        src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40" /></a>
+                </br>
                 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 15px"
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVxsX99Fz1DQV1QUOko--A542_yWE6p-iZp9DSyrRvUYjkbQdtoRuMsimgxs3HfgGC7cU&usqp=CAU" 
                                                                           alt="TensorFlow" width="40" height="40" width="40"/></a>
                 <a href="https://developers.google.com/machine-learning/crash-course?hl=fr" target="_blank"><img style="margin: 15px"
                         src="https://cdn-icons-png.flaticon.com/512/2464/2464397.png" alt="MACHINE LEARNING" width="40" height="40"/></a>
-                <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img style="margin: 15px"
-                        src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40" /></a>
                 <a href="https://laravel.com/" target="_blank"><img style="margin: 15px"
                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" width="40" height="40" /></a>
                 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" width="40" height="40" /></a>
+                <a href="https://firebase.google.com/" target="_blank"><img style="margin: 15px"
+                        src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="Firebase" width="40" height="40" /></a>
                 <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/postman/#FF6C37" alt="Postman" width="40" height="40" /></a>
                 <a href="https://www.w3schools.com/js/js_json_intro.asp" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/json/#000000" alt="JSON" width="40" height="40" /></a>
                 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" width="40" height="40" /></a>
