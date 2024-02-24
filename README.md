@@ -130,7 +130,7 @@
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa_sog24nLt6EZTPRy1SKBlK1_R0suNQeruKTl5OuU3NSUzVXf5tsnBNn9VRJ5q89K2ig&usqp=CAU" 
                                                                                alt="Oracle Database" width="40" height="40" /></a>
                 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img style="margin: 15px"
-                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVXcUCEHFHY4Y6x0I6z3JHIC8YLbCJJ7SxaIy-okDQ8rnmWGtnYe25j-mP1SP2zZr4qYU&usqp=CAU" 
+                        src="https://e7.pngegg.com/pngimages/515/909/png-clipart-microsoft-sql-server-computer-servers-database-microsoft-microsoft-sql-server-server-computer.png" 
                                                                                          alt="SQL Server" width="40" height="40" /></a>
                 </br>
                 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 15px"
@@ -169,7 +169,7 @@
                              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHIrmk4xqxX8XLDGRmaEfviwjWDmsVfXfp-UiGMvrLcBDj6I7lG0xkjTkc9vDOkHUxG8o&usqp=CAU" 
                                                                                      alt="Ubuntu Server" width="40" height="40" /></a>
                     <a href="https://www.microsoft.com/en-us/cloud-platform/windows-server" target="_blank"><img style="margin: 15px"
-                             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV5i_B3lqVcci3bgOYvRpoNaKXRhtqVhTg5ITFE8Z7EMDVtTQNCRSMPAVHmKGzFCBX4Y4&usqp=CAU" 
+                             src="https://w7.pngwing.com/pngs/1013/808/png-transparent-windows-server-2012-r2-windows-server-2008-client-access-license-microsoft-blue-angle-text-thumbnail.png" 
                                                                                                                 alt="Windows Server" width="40" height="40" /></a>
             </div>
         </td>
