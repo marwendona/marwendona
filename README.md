@@ -1,6 +1,6 @@
 <img alt="Coding1" style="display: block; margin: 0 auto;" src="https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/header_.png" />
 <h1 align="center">Hi 👋, I'm Marwen KAMMOUN</h1>
-<div align="left">
+<div align="center">
     <h3 align="left">Developer & Data Scientist</h3>
     <h3 align="left">Connect With Me</h3>
     <a href="mailto:marwenkammoun3@gmail" target="_blank" align="left"><img 
@@ -17,8 +17,8 @@
     <img alt="Coding2" style="display: block; margin: 0 auto;" align="right" width="350" height="200" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <div align="center">
+    <div align="center"><h3> 🔧 Technologies & Tools </h3></div>
 <table>
-    <h3> 🔧 Technologies & Tools </h3>
     <tr>
         <td valign="top" width="33%">
             <h3 align="center">Frontend</h3>
