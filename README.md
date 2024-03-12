@@ -13,7 +13,7 @@
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marwendona" height="30" width="40" /></a>
     <a href="https://twitter.com/marwen_kammoun" target="blank"><img
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marwen_kammoun" height="30" width="40" /></a>
-    <img alt="Coding2" style="display: block; margin: 0 auto;" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+    <img alt="Coding2" style="display: block; margin: 0 auto;" align="right" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
 
 <h3 align="center"> 🔧 Technologies & Tools </h3>
