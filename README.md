@@ -2,21 +2,22 @@
 <h1 align="center">Hi 👋, I'm Marwen KAMMOUN</h1>
 <h3 align="center">Developer & Data Scientist</h3>
 <div>
-    <h3>Connect With Me</h3>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="marwenkammoun3" height="30" width="40" /></a>
-    <a href="mailto:KAMMOUNMARWEN@iit.ens.tn" target="_blank"><img
+    <h3 align="left">Connect With Me</h3>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="marwenkammoun3" align="left" height="30" width="40" /></a>
+    <a href="mailto:KAMMOUNMARWEN@iit.ens.tn" target="_blank" align="left"><img
         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjPWa57XR6nTz37D9XSWANAF0QYMaNT5rUBZfvmMLrU5gbW4eX70xICEbo1ZLJCa-DPzE&usqp=CAU" alt="KAMMOUNMARWEN" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/marwen-kammoun-22252a192" target="blank"><img
+    <a href="https://www.linkedin.com/in/marwen-kammoun-22252a192" target="blank" align="left"><img
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
                                                                           alt="marwen-kammoun-22252a192" height="30" width="40" /></a>
-    <a href="https://www.facebook.com/marwendona" target="blank"><img
+    <a href="https://www.facebook.com/marwendona" target="blank" align="left"><img
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marwendona" height="30" width="40" /></a>
-    <a href="https://twitter.com/marwen_kammoun" target="blank"><img
+    <a href="https://twitter.com/marwen_kammoun" target="blank" align="left"><img
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marwen_kammoun" height="30" width="40" /></a>
-    <img alt="Coding2" style="display: block; margin: 0 auto;" align="right" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+    <img alt="Coding2" style="display: block; margin: 0 auto;" align="right" width="300" height="200" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
 
-<h3 align="center"> 🔧 Technologies & Tools </h3>
+<div>
+    <h3 align="center"> 🔧 Technologies & Tools </h3>
 <table>
     <tr>
         <td valign="top" width="33%">
@@ -158,6 +159,7 @@
         </td>
     </tr>
 </table>
+</div>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwendona&layout=donut-vertical&theme=radical&langs_count=8"   
