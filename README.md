@@ -5,9 +5,6 @@
     <table>
     <tr>
         <td width="33%" style="vertical-align: top;" align="center">
-            <img alt="Coding2" style="display: block; margin: 0 auto;" width="300" height="200" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-        </td>
-        <td width="33%" style="vertical-align: top;" align="center">
             <h3 align="center">Connect With Me</h3>
             <p align="center"><a href="mailto:marwenkammoun3@gmail.com" target="blank"><img
                 src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="marwenkammoun3" height="30" width="40" /></a>
@@ -26,8 +23,8 @@
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marwen_kammoun" height="30" width="40" /></a>
             </p>
         </td>
-        <td width="33%" style="vertical-align: top;" align="center">
-            <img alt="Coding3" style="display: block; margin: 0 auto;" width="300" height="200" src="https://camo.githubusercontent.com/56362def1bbc81d47e30e00d1f680d6698e05f1175c47957ef4a058ff3a840d5/68747470733a2f2f6c66736f6c7574696f6e732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31322f46756c6c2d537461636b2d446576656c6f706d656e742d46656174757265642d496d6167652d4c6576656c466976652d536f6c7574696f6e732e676966" />
+        <td width="66%" style="vertical-align: top;" align="center">
+            <img alt="Coding2" style="display: block; margin: 0 auto;" width="300" height="200" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
         </td>
     </tr>
 </table>
