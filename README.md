@@ -1,7 +1,7 @@
 <img alt="Coding1" style="display: block; margin: 0 auto;" src="https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/header_.png" />
 <h1 align="center">Hi 👋, I'm Marwen KAMMOUN</h1>
-<h3 align="center">Developer & Data Scientist</h3>
 <div>
+    <h3 align="left">Developer & Data Scientist</h3>
     <h3 align="left">Connect With Me</h3>
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="marwenkammoun3" align="left" height="30" width="40" /></a>
     <a href="mailto:KAMMOUNMARWEN@iit.ens.tn" target="_blank" align="left"><img
@@ -13,11 +13,11 @@
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marwendona" height="30" width="40" /></a>
     <a href="https://twitter.com/marwen_kammoun" target="blank" align="left"><img
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marwen_kammoun" height="30" width="40" /></a>
-    <img alt="Coding2" style="display: block; margin: 0 auto;" align="right" width="300" height="200" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+    <img alt="Coding2" style="display: block; margin: 0 auto;" align="right" width="400" height="200" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
 
-<div>
-    <h3 align="center"> 🔧 Technologies & Tools </h3>
+<div align="center">
+    <h3> 🔧 Technologies & Tools </h3>
 <table>
     <tr>
         <td valign="top" width="33%">
