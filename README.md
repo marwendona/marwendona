@@ -25,6 +25,8 @@
         <td valign="top" width="33%">
             <h3 align="center">Frontend</h3>
             <div align="center">
+                <a href="https://fr.react.dev" target="_blank"><img style="margin: 15px" src="https://en.wikipedia.org/wiki/React_(software)#/media/File:React_Logo_SVG.svg" 
+                                                                   alt="React" width="40" height="40" /></a>
                 <a href="https://angular.io/" target="_blank"><img style="margin: 15px" src="https://cdn.iconscout.com/icon/free/png-256/angular-226066.png" alt="Angular" width="40" height="40" /></a>
                 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 15px" src="https://cdn.simpleicons.org/typescript/#3178C6" alt="TypeScript" width="40" height="40" /></a>
                 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 15px" src="https://cdn.simpleicons.org/javaScript/#F7DF1E" alt="JavaScript" width="40" height="40" /></a>
@@ -57,6 +59,9 @@
                 <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 15px"
                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/800px-Spring_Framework_Logo_2018.svg.png" 
                                                                                      alt="Spring Boot" height="40" width="100"/></a>
+                <a href="https://quarkus.io" target="_blank"><img style="margin: 15px"
+                        src="https://upload.wikimedia.org/wikipedia/commons/8/83/Quarkus-logo.svg" 
+                                                                                     alt="quarkus" height="40" width="100"/></a>
                 <a href="https://java.com/" target="_blank"><img style="margin: 15px"
                         src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/131px-Java_programming_language_logo.svg.png" alt="Java" width="40" height="40" /></a>
                 <a href="https://www.oracle.com/java/technologies/javaee" target="_blank"><img style="margin: 15px"
@@ -132,6 +137,10 @@
             <h3 align="center">Technology Stack</h3>
             <div align="center">
                     <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="40" height="40" /></a>
+                    <a href="https://www.keycloak.org" target="_blank"><img style="margin: 10px" src="https://en.wikipedia.org/wiki/Keycloak#/media/File:Logo_of_Keycloak.svg" 
+                                                                           alt="keycloak" width="40" height="40" /></a>
+                    <a href="https://firebase.google.com" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/New_Firebase_logo.svg" 
+                                                                              alt="firebase" width="40" height="40" /></a>
                     <a href="https://jenkins.io/" target="_blank"><img style="margin: 15px"
                             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" /></a>
                     <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px"
